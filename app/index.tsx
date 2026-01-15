@@ -10,7 +10,7 @@ export default function Index() {
 
   return (
     <View style={{ flex: 1, justifyContent: 'center', padding: 20 }}>
-      <Text style={{ fontSize: 26, textAlign: 'center', marginBottom: 30,color:'red' }}>
+      <Text style={{ fontSize: 26, textAlign: 'center', marginBottom: 30,color:'black' }}>
         Login
       </Text>
 
